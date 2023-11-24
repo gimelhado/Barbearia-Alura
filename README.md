@@ -1,2 +1,1 @@
-# Barbearia-Alura
-Trabalho de Giovanna
+Barbearia Alura
